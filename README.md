@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://tomagsvi9.github.io/.github/datagrip">  
+<a href="https://osx-get-software.github.io/.github/datagrip">  
 <img src="https://img.shields.io/badge/💻_Get_DataGrip-darkblue?style=for-the-badge&logo=apple" alt="Get DataGrip">  
 </a>  
 </div>  
